@@ -28,7 +28,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![TipCalculator](https://user-images.githubusercontent.com/59743056/130673072-c2d0a44f-499c-400c-be36-0c1912b95d0d.gif)
+![ezgif com-video-to-gif 2](https://user-images.githubusercontent.com/59743056/130673641-d876dd6d-00be-4014-beb4-9bf1c24f3ef2.gif)
+
 
 
 ## Notes
